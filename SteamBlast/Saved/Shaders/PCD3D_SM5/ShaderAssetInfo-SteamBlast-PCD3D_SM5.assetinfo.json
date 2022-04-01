@@ -246,6 +246,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D4A5FB138BDDEEA896E9E1134B35624A530096C1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "BA26633295EC8420D2A1680C2063BC7ED2F523EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
 			"ShaderMapHash": "6D5F409B5C5C5EF25739CC7BD31760B025D63F21",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Gold"
@@ -257,6 +269,7 @@
 				"/Game/SteamBlast/Assets/FinalAssets/Aeration/Aeration_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Balcony/Balcony_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Beam/Beam_trou_BaseColor_Mat",
+				"/Game/SteamBlast/Assets/FinalAssets/Draps/Draps_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Grid/Grid_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Building_stairs_platform/Ladder/Ladder_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Building_stairs_platform/Normal/Building_stairs_normal_BaseColor_Mat",
@@ -270,8 +283,7 @@
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_17_-_Old_Copper__1_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_18_-_Rubber_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_Ceramic_BaseColor_Mat",
-				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_Wall_Paint_BaseColor_Mat",
-				"/Game/SteamBlast/Assets/FinalAssets/Draps/Draps_BaseColor_Mat"
+				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_Wall_Paint_BaseColor_Mat"
 			]
 		},
 		{
@@ -288,12 +300,12 @@
 				"/Game/SteamBlast/Assets/FinalAssets/Rooftop/istockphoto-163694319-1024x1024_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Shop/dark-metal-texture_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Shop/images_Mat",
+				"/Game/SteamBlast/Assets/FinalAssets/EasterEgg/9810e79df037280141089b7b3125261e_ncl1_1_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/Factorywalls/Building_01_jpg3e491827-2e09-4dc4-b18a-88564fbbf779Larger_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_02_-_Default_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_11_-_Default_BaseColor_Mat",
 				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_12_-_Car_Paint_BaseColor_Mat",
-				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_Metal_BaseColor_Mat",
-				"/Game/SteamBlast/Assets/FinalAssets/EasterEgg/9810e79df037280141089b7b3125261e_ncl1_1_Mat"
+				"/Game/SteamBlast/Assets/FinalAssets/FinalMine/Basecolor/Textures_Metal_BaseColor_Mat"
 			]
 		},
 		{
@@ -393,6 +405,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "18A8C1A6C2B7BE30B78CFE15D50F4D509274669B",
+			"Assets": [
+				"/Game/SteamBlast/Assets/FinalAssets/Ropes_clothes/Ropes_clothes_BaseColor_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "1070E692E1DE4E45A98CB1B1857DF46BA5AD4890",
 			"Assets": [
 				"/Game/SteamBlast/Assets/FinalAssets/Shop/glass-texture_Mat"
@@ -448,15 +466,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BE2941B1983390323C81BE188C1BF5CBFAFA0AC5",
+			"ShaderMapHash": "B98C0B58DDAC7E5388D790D7F67A1CA14D75E6E8",
 			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/BeamAngle/scratched-and-scraped-metal-texture-6_Mat"
+				"/Game/SteamBlast/Assets/FinalAssets/Collectible/Texture_parchemin_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "F5CF9EE45605D7675AC8D3FD394D1EC1C891F4D2",
+			"ShaderMapHash": "0AE098AF113B2C4480A6F46A128FB83680C11985",
 			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/Dirigeable/Textures/thumb2-4k-aluminum-textures-horizontal-metal-texture-gray-metal-plate-metal-textures_Mat"
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "BE2941B1983390323C81BE188C1BF5CBFAFA0AC5",
+			"Assets": [
+				"/Game/SteamBlast/Assets/FinalAssets/BeamAngle/scratched-and-scraped-metal-texture-6_Mat"
 			]
 		},
 		{
@@ -499,6 +523,24 @@
 			"ShaderMapHash": "E484C48936BBFB78E220F48F9B9AA792B59E338A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB890141E28BE2ABE08884F79B94E82C2281B79",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "03E3398FCFF718A0221C86ED4550071258D61BF7",
+			"Assets": [
+				"/Game/SteamBlast/Assets/FinalAssets/Collectible/Cire_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "59427E7ADAF4BFA909CEE1C79BBD6763AE9DB71C",
+			"Assets": [
+				"/Game/SteamBlast/Assets/FinalAssets/Collectible/istockphoto-657164498-612x612_Mat"
 			]
 		},
 		{
@@ -595,30 +637,6 @@
 			"ShaderMapHash": "ACCB976400F69E35690F55939B3D2DE028059171",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "03E3398FCFF718A0221C86ED4550071258D61BF7",
-			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/Collectible/Cire_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "59427E7ADAF4BFA909CEE1C79BBD6763AE9DB71C",
-			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/Collectible/istockphoto-657164498-612x612_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "18A8C1A6C2B7BE30B78CFE15D50F4D509274669B",
-			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/Ropes_clothes/Ropes_clothes_BaseColor_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B98C0B58DDAC7E5388D790D7F67A1CA14D75E6E8",
-			"Assets": [
-				"/Game/SteamBlast/Assets/FinalAssets/Collectible/Texture_parchemin_Mat"
 			]
 		}
 	]
